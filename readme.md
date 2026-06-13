@@ -52,9 +52,8 @@ cd "License Plate Recognition System"
 ```bash
 pip install opencv-python pytesseract
 ```
-* **Place Your Image:**
-* **Ensure your input image (e.g., car.jpg) is located in the same directory as main.py.**
-  
+* **Place Your Image:** Ensure your input image (e.g., car.jpg) is located in the same directory as main.py.
+
 * **Configure Tesseract Path (Windows Specific):**
 * **Locate the line:** pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe" and verify the path.
 
