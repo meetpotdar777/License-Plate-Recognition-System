@@ -1,6 +1,6 @@
 ## License Plate Recognition (LPR) System 🚗
 
-This project implements a basic License Plate Recognition (LPR) system using Python, OpenCV, and Tesseract OCR. It's designed to detect license plates in images, extract the plate region, and then perform Optical Character Recognition (OCR) to read the alphanumeric characters.
+ This project implements a basic License Plate Recognition (LPR) system using Python, OpenCV, and Tesseract OCR. It's designed to detect license plates in images, extract the plate region, and then perform Optical Character Recognition (OCR) to read the alphanumeric characters.
 
 ## ✨ Features
 
